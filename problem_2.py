@@ -10,4 +10,4 @@ def cut_cake(number_of_friends, number_of_slices):
         return cut_cake(number_of_friends, number_of_slices)
 
 
-print(cut_cake(5, 1))
+print(cut_cake(7, 1))
